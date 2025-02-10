@@ -7,7 +7,7 @@ URL: https://squad03-women.vercel.app/
 - BOOTSTRAP
 - JAVASCRIPT
 
-URL: Cadastro - Comunidade Wom's
+URL: - Comunidade Wom's https://squad03-women.vercel.app/index.html
 
 Objetivo
 A página tem como objetivo fornecer um formulário de cadastro para novos usuários na plataforma da Comunidade Wom's, permitindo o registro através de informações básicas.
