@@ -7,7 +7,7 @@ URL: https://squad03-women.vercel.app/
 - BOOTSTRAP
 - JAVASCRIPT
 
-URL: Cadastro - Comunidade Wom's
+URL: - Comunidade Wom's https://squad03-women.vercel.app/index.html
 
 Objetivo
 A página tem como objetivo fornecer um formulário de cadastro para novos usuários na plataforma da Comunidade Wom's, permitindo o registro através de informações básicas.
@@ -104,6 +104,7 @@ As cores e a estrutura de layout são simples, mas modernas, com foco na acessib
 <br>
 <br>
 <br>
+
 ![Modelo_Conceitual_squad](https://github.com/user-attachments/assets/c62f6945-94e1-4893-8791-8ec0035a477a)
 
 
@@ -112,7 +113,7 @@ As cores e a estrutura de layout são simples, mas modernas, com foco na acessib
 <br>
 <br>
 
- ![Modelo_Logico_squad03](https://github.com/user-attachments/assets/95d3731d-d7bf-4516-a572-0304fc6fb682)
+![Modelo_Logico_squad03](https://github.com/user-attachments/assets/95d3731d-d7bf-4516-a572-0304fc6fb682)
 
 
 
