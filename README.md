@@ -105,7 +105,8 @@ As cores e a estrutura de layout são simples, mas modernas, com foco na acessib
 <br>
 <br>
 
-Banco de dadoa
+Banco de dados
+<br>
 Modelo Conceitual:
 
 ![Modelo_Conceitual_squad](https://github.com/user-attachments/assets/c62f6945-94e1-4893-8791-8ec0035a477a)
@@ -117,7 +118,7 @@ Modelo Conceitual:
 <br>
 
 Modelo Lógico
-
+<br>
 ![Modelo_Logico_squad03](https://github.com/user-attachments/assets/95d3731d-d7bf-4516-a572-0304fc6fb682)
 
 
@@ -129,7 +130,7 @@ Modelo Lógico
 <br>
 
 Modelo Físico
-
+<br>
 -- Tabela de Notificações
 CREATE TABLE Notifications (
     notification_id INT PRIMARY KEY,
