@@ -124,6 +124,11 @@ As cores e a estrutura de layout são simples, mas modernas, com foco na acessib
 <br>
 
 -- Tabela de Notificações
+CREATE DATABASE womens;
+
+USE womens;
+
+
 CREATE TABLE Notifications (
     notification_id INT PRIMARY KEY,
     read_status BOOLEAN,
@@ -258,7 +263,3 @@ CREATE TABLE Envia (
     FOREIGN KEY (post_id) REFERENCES Posts(post_id),
     FOREIGN KEY (comment_id) REFERENCES Comments(comment_id)
 );
-
- 
-
-
