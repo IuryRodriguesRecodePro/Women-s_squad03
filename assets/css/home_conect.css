@@ -4,18 +4,40 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "MyriadProLight", sans-serif;
-    font-weight: normal;
 }
 
-@font-face {
-    font-family: 'MyriadProLight';
-    src: url('../fontes/MyriadPro-Light.otf') format('opentype');
-    font-weight: normal;
+@font-face {  
+    font-family: 'Myriad-Pro';  
+    src: url('/assets/fontes/myriad-pro/MYRIADPRO-REGULAR.OTF') format('opentype'),  
+         url('/assets/fontes/myriad-pro/MYRIADPRO-BOLD.OTF') format('opentype'),  
+         url('/assets/fontes/myriad-pro/MYRIADPRO-SEMIBOLDIT.OTF') format('opentype');  
+    font-weight: normal;  
+    font-style: normal; 
+}  
+
+@font-face {  
+    font-family: 'Myriad-Pro';  
+    src: url('/assets/fontes/myriad-pro/MYRIADPRO-BOLD.OTF') format('opentype');  
+    font-weight: bold;  
+}  
+
+@font-face {  
+    font-family: 'Myriad-Pro';  
+    src: url('/assets/fontes/myriad-pro/MYRIADPRO-SEMIBOLDIT.OTF') format('opentype');  
+    font-style: italic;  
+}  
+
+/* Definindo a família de fontes Titan One */  
+@font-face {  
+    font-family: 'Titan-One';  
+    src: url('/assets/fontes/titan_one/TitanOne-Regular.ttf') format('opentype'); 
+    font-weight: normal;  
+    font-style: normal;  
 }
 
 /* Menu */
 body {
+    font-family: 'Myriad-Pro', sans-serif;
     background-color: #fbfbfb;
     overflow-x: hidden;
 }
